@@ -2,6 +2,7 @@
 
 # [Project 1: Create app with streamlit to predict the type of iris plant](https://github.com/jkmg/Iris)
 
+![](/images/positions_by_state.png)
 
 ## Welcome to GitHub Pages
 
