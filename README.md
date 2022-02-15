@@ -10,3 +10,9 @@
 * In this project, I performed an exploratory data analysis on a dataset used for heart failure prediction, built several classification models to predict the probability of heart failure and compared performance between them.  
 
 ![](/images/Heart_BoxPlot.png)
+
+# [Project 2: Build a classification model to predict the probability of heart failure](https://github.com/jkmg/Heart_Disease_Prediction)
+* In this project, I  
+
+![](/images/GDP_ARIMA.png)
+
