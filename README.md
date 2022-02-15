@@ -12,7 +12,7 @@
 ![](/images/Heart_BoxPlot.png)
 
 # [Project 2: Build a classification model to predict the probability of heart failure](https://github.com/jkmg/Heart_Disease_Prediction)
-* In this project, I  
+* In this project, I predicted the GDP per capita of India up to 10 years (2026) after the last year for which the dataset contained GDP data. To do so, I used the Autoregressive Integrated Moving Average (ARIMA) approach.  
 
 ![](/images/GDP_ARIMA.png)
 
