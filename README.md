@@ -17,4 +17,6 @@
 ![](/images/GDP_ARIMA.png)
 
 # [Project 4: Breast Cancer Cell Screening](https://github.com/jkmg/Breast_Cells_Screening)
-
+* In this project, I performed an exploratory data analysis on a dataset containing a series of morphological parameters for benign and malignant breast cells. I built **Random Forest and Logistic Regression classification models** to predict the type of breast cell and discussed which model would be more useful. 
+* 
+![](/images/Breast_Cancer_Screening_RF-Depth.png)
