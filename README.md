@@ -1,7 +1,7 @@
 # Juan Muñoz Data Science Portfolio 
 
 # [Project 1: Create app with streamlit to predict the type of Iris plant](https://github.com/jkmg/Iris)
-* In this project, I used **streamlit** to create a website app that predicts the type of Iris plant ('Iris-setosa', 'Iris-versicolor' and 'Iris-virginica') from the paramters sepal length, sepal width and petal width in cm.
+* In this project, I used **streamlit** to create a website app that predicts the type of Iris plant ('Iris-setosa', 'Iris-versicolor' and 'Iris-virginica') from the paramters sepal length, sepal width, and petal width in cm.
 * I also deployed the app with **Heroku** at this [site](https://arcane-basin-45402.herokuapp.com/)
 
 ![](/images/Iris_correlation_matrix.png)
